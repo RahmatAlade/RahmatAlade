@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RahmatAlade
-- 👀 I’m interested in learning variuos programming languages.
+- 👀 I’m interested in learning various programming languages.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: 09122789771, rahmatalade@gmail.com
